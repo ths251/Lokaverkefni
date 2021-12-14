@@ -1,0 +1,8 @@
+App ID
+2IUH8tIR
+
+Client ID (Consumer Key)
+dj0yJmk9eVlCanRwRXhWb1lQJmQ9WVdrOU1rbFZTRGgwU1ZJbWNHbzlNQT09JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PWY5
+
+Client Secret (Consumer Secret)
+f5147d8d5e433a033a6af6768a9dc78494ea26df

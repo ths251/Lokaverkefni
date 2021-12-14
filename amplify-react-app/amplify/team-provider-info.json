@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fantasyapp-dev-195607-authRole",
+      "UnauthRoleArn": "arn:aws:iam::926262675025:role/amplify-fantasyapp-dev-195607-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::926262675025:role/amplify-fantasyapp-dev-195607-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-fantasyapp-dev-195607-deployment",
+      "UnauthRoleName": "amplify-fantasyapp-dev-195607-unauthRole",
+      "StackName": "amplify-fantasyapp-dev-195607",
+      "StackId": "arn:aws:cloudformation:eu-north-1:926262675025:stack/amplify-fantasyapp-dev-195607/78c1c030-18ba-11ec-8086-0e766d9c4fde",
+      "AmplifyAppId": "d2gktyi6rtk9cc"
+    },
+    "categories": {
+      "auth": {
+        "fantasyappec393116": {}
+      }
+    }
+  }
+}

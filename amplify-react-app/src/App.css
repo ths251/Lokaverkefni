@@ -1,0 +1,217 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.rankings{
+  color: blue;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+a{
+  color:black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.playerList{
+  display: flex;
+  flex-direction: column;
+  visibility: visible;
+}
+
+.playerCard{
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+
+.playerName{
+  font-weight: bold;
+  width: 10%;
+  padding-top: 15px;
+}
+
+.header_option{
+  display: flex;
+  align-items: center;
+ 
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+h5{
+  margin-right: 15px;
+}
+
+
+.playerTeam{
+  width: 10%;
+  padding-top: 15px;
+}
+
+
+.MuiAutocomplete-root.MuiAutocomplete-hasPopupIcon.css-1kpdewa-MuiAutocomplete-root {
+  margin-left: auto;
+}
+
+.App input{
+  margin-left:auto;
+  width: 300px;
+  height: 40px;
+  font-size: 18px;
+  padding-left: 10px;
+}
+
+.playerPosition{
+  padding-top: 15px;
+}
+
+.playerPoints{
+  padding-top: 15px;
+}
+
+
+.username{
+  font-size: 16px;
+  font-weight: lighter;
+  
+}
+
+.pages{
+  margin-left: 0px;
+}
+
+.teamColumn{
+  display: grid;
+  grid-auto-flow: column;
+  align-items: center;
+  justify-items: center;
+}
+
+.team1{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  text-align: left;
+}
+
+.team2{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  text-align: left;
+  
+}
+
+.rowSelect {
+  /* flex-direction: row; */
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+
+
+.Trade_button{
+  padding-top: 20px;
+  text-align: left;
+}
+
+.Trade_eval{
+  display: grid;
+  grid-auto-flow: column;
+  align-items: center;
+  justify-items: center;
+  padding: 20px;
+}
+
+.Trade_texti{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  padding-top: 20px;
+}
+
+.borderTexti{
+  padding: 20px;
+  display: flex;
+  text-align: center;
+  width: 25%;
+  margin: auto;
+}
+
+
+#players_even {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#players_even td, #players_even th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#players_even tr:nth-child(even){background-color: #f2f2f2;}
+
+
+#players_even th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #84d4ff;
+  color: white;
+}
+
+.playersEven{
+  width:50%;
+  height: 100%;
+  text-align: left;
+  margin-bottom: 50px;
+  margin-left: 110px;
+}
+
+.ButtonsTrade{
+  padding: 10px;
+  display: flex;
+  gap: 20px;
+  width: 70%;
+  margin: auto;
+}
+
+.textFields{
+  display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-items: center;
+}
+
+.user_name{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.button_user{
+  margin-top:10px;
+}
+
+

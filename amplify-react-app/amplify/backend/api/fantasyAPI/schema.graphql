@@ -1,0 +1,10 @@
+type Player @model{
+  id: ID!
+  name: String!
+  position: String!
+  team: String!
+  points: Int!
+  picture: String
+}
+
+
